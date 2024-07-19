@@ -16,8 +16,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-repo/project-name.git
-   cd project-name
+   git clone https://github.com/ShreyasGowda28/HospitalManagement_Django.git
+   cd HospitalManagement_Django
    ```
 
 2. **Install the Requirements**
